@@ -1,0 +1,15 @@
+{
+	"workbench.preferredDarkColorTheme": "Beautiful Dracula Normal",
+	"workbench.colorTheme": "Beautiful Dracula Normal",
+	"files.associations": {
+		"ostream": "cpp"
+	},
+	"editor.defaultFormatter": "ms-vscode.cpptools",
+	"editor.indentSize": "tabSize",
+	"[cpp]": {
+		"editor.defaultFormatter": "ms-vscode.cpptools"
+	},
+	"c-cpp-compile-run.cpp-compiler": "cl.exe",
+	"c-cpp-compile-run.c-compiler": "cl.exe",
+	"c-cpp-compile-run.cpp-flags": "",
+}

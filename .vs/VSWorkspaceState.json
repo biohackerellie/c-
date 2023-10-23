@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Week1"
+    "\\Week1",
+    "\\Week1\\Zoo",
+    "\\Week1\\Zoo\\classes\\Animals",
+    "\\Week1\\Zoo\\output"
   ],
-  "SelectedNode": "\\Week1\\guessingGame.cpp",
+  "SelectedNode": "\\Week1\\Zoo\\output",
   "PreviewInSolutionExplorer": false
 }

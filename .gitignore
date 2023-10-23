@@ -4,3 +4,13 @@ output/**
 output/*
 *.obj
 *.exe
+.vs/*
+*.pdb
+*.db
+*.wsuo
+*.sqlite
+.vs/c-/v17/ipch/AutoPCH/d6b9bc4ed93ddbfc/GUESSINGGAME.ipch
+.vs/**
+.vs/*
+.vs/c-/v17/.wsuo
+Week1/vc140.pdb
